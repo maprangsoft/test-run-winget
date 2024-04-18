@@ -1,5 +1,5 @@
 const i = document.createElement("link");
-i.href = "bundle.css",
+i.href = "https://cdn.jsdelivr.net/gh/maprangsoft/test-run-winget@main/bundle.css",
 i.type = "text/css",
 i.rel = "stylesheet",
 
